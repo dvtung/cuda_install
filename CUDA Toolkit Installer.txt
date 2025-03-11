@@ -19,3 +19,8 @@ sudo apt-get install -y nvidia-open
 To install the proprietary kernel module flavor:
 
 sudo apt-get install -y cuda-drivers
+
+
+
+wget https://developer.download.nvidia.com/compute/cuda/12.8.1/local_installers/cuda_12.8.1_570.124.06_linux.run
+sudo sh cuda_12.8.1_570.124.06_linux.run
